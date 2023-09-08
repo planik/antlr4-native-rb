@@ -2,7 +2,7 @@
 
 ## Optor Stuff
 Ausprobiert, ob ein Ersatz für gem antlr3. Leider keine einfache Tests.
-Darum ein eigenes Beispiel in sandbox/first.rb gemäss Readme gemacht. Es wird ein cpp code generiet. Das erwartete File sandbox/ext/hello_parser/antlrgen/HelloParser.cpp
+Darum ein eigenes Beispiel in sandbox/first.rb gemäss Readme gemacht. Funktionierte nicht. Es wird KEIN cpp code generiet. Das erwartete File sandbox/ext/hello_parser/antlrgen/HelloParser.cpp
 wird nicht generiert
 
 Create a Ruby native extension from (almost) any ANTLR4 grammar.
